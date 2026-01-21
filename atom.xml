@@ -6,7 +6,7 @@
   <link href="https://starrybnu.github.io/atom.xml" rel="self"/>
   
   <link href="https://starrybnu.github.io/"/>
-  <updated>2026-01-19T01:30:25.698Z</updated>
+  <updated>2026-01-21T05:46:05.721Z</updated>
   <id>https://starrybnu.github.io/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>PrivateTest</title>
-    <link href="https://starrybnu.github.io/2026/01/19/PrivateTest/"/>
-    <id>https://starrybnu.github.io/2026/01/19/PrivateTest/</id>
+    <title>ysyxlog</title>
+    <link href="https://starrybnu.github.io/2026/01/21/ysyxlog/"/>
+    <id>https://starrybnu.github.io/2026/01/21/ysyxlog/</id>
+    <published>2026-01-21T05:42:37.000Z</published>
+    <updated>2026-01-21T05:46:05.721Z</updated>
+    
+    <content type="html"><![CDATA[<p>也算是督促一下自己吧，写点东西记录这个项目（“一生一芯”）的学习过程，不会涉及具体的过程，更多可能是心得与感想，短期目标是寒假通过E阶段。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;也算是督促一下自己吧，写点东西记录这个项目（“一生一芯”）的学习过程，不会涉及具体的过程，更多可能是心得与感想，短期目标是寒假通过E阶段。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="ComputerScience" scheme="https://starrybnu.github.io/tags/ComputerScience/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>加密文章测试</title>
+    <link href="https://starrybnu.github.io/2026/01/19/%E5%8A%A0%E5%AF%86%E6%96%87%E7%AB%A0%E6%B5%8B%E8%AF%95/"/>
+    <id>https://starrybnu.github.io/2026/01/19/%E5%8A%A0%E5%AF%86%E6%96%87%E7%AB%A0%E6%B5%8B%E8%AF%95/</id>
     <published>2026-01-19T01:28:04.000Z</published>
-    <updated>2026-01-19T01:30:25.698Z</updated>
+    <updated>2026-01-21T05:46:54.114Z</updated>
     
     <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="ab4501856e8a00fde8e3039500f2d06b4dc7b1ecb3d600cc479700346dee8f47">706d2a2c6535fa41295a99aa1534a7456bc30104a1fe0c0f0eee4a2992b04c9861cfc45040f4ca80623db0e7c326179383eaebbe714ea299aa4a40306087d4b550e18bb2c758ed3980218824d0da1524296bb182442f45757b7400ca4f2ed6b74b668d0cf32eefe0e0043ea8520ee3ba7b1f9777d08ea818e0c8f02cd97d99476ec1770207e95320b49c02ae67927568dece0f50a33e50076deef7b9dede6ef1</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
     
