@@ -6,7 +6,7 @@
   <link href="https://starrybnu.github.io/atom.xml" rel="self"/>
   
   <link href="https://starrybnu.github.io/"/>
-  <updated>2026-01-26T14:47:28.596Z</updated>
+  <updated>2026-01-28T09:15:17.321Z</updated>
   <id>https://starrybnu.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>熵权法为何合理</title>
+    <link href="https://starrybnu.github.io/2026/01/28/%E7%86%B5%E6%9D%83%E6%B3%95/"/>
+    <id>https://starrybnu.github.io/2026/01/28/%E7%86%B5%E6%9D%83%E6%B3%95/</id>
+    <published>2026-01-28T09:13:30.000Z</published>
+    <updated>2026-01-28T09:15:17.321Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h2><p>熵（Entropy）度量系统无序程度，在评价中延伸为指标数据的离散程度。若某指标在所有样本中数值相近（熵值高），则其区分能力弱、权重应降低；反之，若指标值差异大（熵值低），则携带信息多，权重应提高。这种“以数据驱动权重”的逻辑避免了主观偏见，符合信息优化原则。</p><h2 id="模拟案例"><a href="#模拟案例" class="headerlink" title="模拟案例"></a>模拟案例</h2><p>地震后需快速评估各受灾点的紧急程度，指标可能包括伤亡人数、建筑损毁率、道路中断情况等。若采用德尔菲法或层次分析法（AHP），需专家反复磋商，耗时数日；而熵权法可直接基于实时采集的现场数据（如卫星图像识别损毁率、传感器传回的道路状态）在几分钟内算出权重，明确“道路中断”比“建筑损毁”更具区分度，从而优先将救援力量投向道路中断严重的区域。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;原理&quot;&gt;&lt;a href=&quot;#原理&quot; class=&quot;headerlink&quot; title=&quot;原理&quot;&gt;&lt;/a&gt;原理&lt;/h2&gt;&lt;p&gt;熵（Entropy）度量系统无序程度，在评价中延伸为指标数据的离散程度。若某指标在所有样本中数值相近（熵值高），则其区分能力弱、权重应降低；</summary>
+      
+    
+    
+    
+    
+    <category term="Math" scheme="https://starrybnu.github.io/tags/Math/"/>
+    
+  </entry>
   
   <entry>
     <title>ysyxlog</title>
